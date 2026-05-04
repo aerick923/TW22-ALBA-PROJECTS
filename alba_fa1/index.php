@@ -18,7 +18,7 @@
     $phoneNum = "(+63) 920-263-9948";
     $email = "apalba@fit.edu.ph";
     $location = "Manila, Philippines";
-    $profileImage = "image/RESUME_PICTURE - Copy.jpg";
+    $profileImage = "RESUME_PICTURE - Copy.jpg";
 
 
    
